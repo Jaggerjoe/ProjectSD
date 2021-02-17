@@ -24609,7 +24609,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Damping: 0.2
-  m_NoiseAmplitude: 0.3
+  m_NoiseAmplitude: 0.6
 --- !u!4 &1768430953 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400016, guid: 02e80e32776dd154f831c016492e87a2,

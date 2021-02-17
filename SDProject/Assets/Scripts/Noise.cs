@@ -24,7 +24,7 @@ public class Noise : MonoBehaviour
         }
 
         m_currentNoise.x = GetNoise(0f);
-        m_currentNoise.y = GetNoise(1f);
+        //m_currentNoise.y = GetNoise(.1f);
         m_currentNoise.z = GetNoise(2f);
         m_currentNoise *= m_NoiseAmplitude;
 
